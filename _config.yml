@@ -1,10 +1,10 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Takgon's homepage
+name: Takgon Lee
+email: astromelon@gmail.com
+description: Living in Seoul of South Korea. I like programming.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_two: assets/images/startup4.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
