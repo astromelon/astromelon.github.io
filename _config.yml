@@ -4,7 +4,7 @@ email: astromelon@gmail.com
 description: Living in Seoul of South Korea. I like programming.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup4.jpg
+parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
 project_one_description: 모바일 웹 청첩장(PHP, MYSQL)
