@@ -16,10 +16,15 @@ project_two_description: 자격증 포탈
 project_two_url: https://github.com/astromelon/MyTest.git
 project_two_icon: phone_android
 
-project_two: Third Project
-project_two_description: 악보인식 프로그램
-project_two_url: https://github.com/astromelon/Jugend.git
-project_two_icon: queue_music
+project_three: Third Project
+project_three_description: 악보인식 프로그램
+project_three_url: https://github.com/astromelon/Jugend.git
+project_three_icon: queue_music
+
+project_four: Fourth Project
+project_four_description: 준비중
+project_four_url:
+project_four_icon: mood
 
 project_button: Github
 
