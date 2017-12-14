@@ -31,8 +31,8 @@ project_button: Github
 github: https://github.com/astromelon
 medium: https://medium.com
 
-baseurl: https://astromelon.github.io # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
-url: https://astromelon.github.io #the url of your site
+baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+url: #the url of your site
 
 google_analytics_tracking_id: UA-111295991-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
