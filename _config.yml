@@ -7,17 +7,17 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup4.jpg
 
 project_one: "First Project"
-project_one_description: 모바일 웹 청첩장
+project_one_description: 모바일 웹 청첩장(PHP, MYSQL)
 project_one_url: https://github.com/astromelon/wedding_convention.git
 project_one_icon: mail_outline
 
 project_two: Second Project
-project_two_description: 자격증 포탈
+project_two_description: 자격증 포탈(JAVA,JSP,ANDROID)
 project_two_url: https://github.com/astromelon/MyTest.git
 project_two_icon: phone_android
 
 project_three: Third Project
-project_three_description: 악보인식 프로그램
+project_three_description: 악보인식 프로그램(C#.NET)
 project_three_url: https://github.com/astromelon/Jugend.git
 project_three_icon: queue_music
 
